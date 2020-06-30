@@ -1,0 +1,32 @@
+
+{
+    "pystart_ms": 1588154402866.2576,
+    "pyend_ms": 1588154410842.9006,
+    "pyduration_ms": 7976.64306640625,
+    "func_data": {
+        "initTime_ms": 1588154403165.6296,
+        "endTime_ms": 1588154410776.432,
+        "duration_ms": 7610.802173614502,
+        "funcActivationID": "bab7b723-a9e3-441c-94ac-15cd35c594e2",
+        "hostname": "169.254.24.133",
+        "hostnameIP": "169.254.24.133",
+        "containerID": "2:cpu:/sandbox-root-JbXJw8/sandbox-service-663808/sandbox-c200af",
+        "mem_limit": "256",
+        "uptime": "3193.88"
+    },
+    "metadata": {
+        "RequestId": "bab7b723-a9e3-441c-94ac-15cd35c594e2",
+        "HTTPStatusCode": 200,
+        "HTTPHeaders": {
+            "date": "Wed, 29 Apr 2020 10:00:10 GMT",
+            "content-type": "application/json",
+            "content-length": "348",
+            "connection": "keep-alive",
+            "x-amzn-requestid": "bab7b723-a9e3-441c-94ac-15cd35c594e2",
+            "x-amzn-remapped-content-length": "0",
+            "x-amz-executed-version": "$LATEST",
+            "x-amzn-trace-id": "root=1-5ea95022-49757cde77dd264f7049a25e;sampled=0"
+        },
+        "RetryAttempts": 0
+    }
+},

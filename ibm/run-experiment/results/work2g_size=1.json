@@ -1,0 +1,22 @@
+
+{
+    "pystart_ms": 1588061461197.03,
+    "pyend_ms": 1588061463594.7397,
+    "pyduration_ms": 2397.709716796875,
+    "ow_func_start_ms": 1588061462025,
+    "ow_func_end_ms": 1588061463404,
+    "ow_func_duration_ms": 1379,
+    "func_data": {
+        "containerID": "81f90bfd-30d2-4100-b197-f9c83899135a",
+        "duration_ms": 1237.3778820037842,
+        "endTime_ms": 1588061463402.9949,
+        "funcActivationID": "805be6ebd0b546a29be6ebd0b5e6a24d",
+        "hostname": "action",
+        "hostnameIP": "192.168.0.160",
+        "initTime_ms": 1588061462165.617,
+        "uptime": "1016977.32"
+    },
+    "wait_time": 349,
+    "init_time": 103,
+    "mem_lim": 2048
+},
